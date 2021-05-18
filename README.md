@@ -3,6 +3,7 @@ This repository contains solutions to the assigments from Coursera HTML, CSS, an
 
 **Assignment Links:**
 - [Week 2 assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md) 
+- [Week 3 assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 
 **Assigntment Solution:**
 - [Week 2 (Module2-solution)](https://github.com/susanklm/HTML-CSS-and-Javascript-for-Web-Developers/tree/main/module2-solution)
