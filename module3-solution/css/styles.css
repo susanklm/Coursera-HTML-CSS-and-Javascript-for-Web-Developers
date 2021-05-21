@@ -32,7 +32,6 @@ body {
 
 #nav-list {
   margin-top: 10px;
-  background: #F7F9F9
 }
 #nav-list a {
   color: #000000;
@@ -41,7 +40,11 @@ body {
 #nav-list a:hover {
   background: #E7E7E7;
 }
-
+#nav-list hr{
+  border: 1px solid black;
+  margin-bottom: 5px;
+  margin-top: 5px;
+ }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 2px solid #000000;
 }
@@ -99,6 +102,10 @@ body {
     padding-top: 10px;
     font-size: 5vw; /* 1vw = 1% of viewport width */
   }
+  #collapsable-nav{
+    border: 1px solid black;
+    background-color: #FCF3CF;
+  } 
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.2em;
   }
@@ -122,6 +129,10 @@ body {
     padding-top: 10px;
     font-size: 6vw;
   }
+  #collapsable-nav{
+    border: 1px solid black;
+    background-color: #FCF3CF;
+  } 
   /* End Header */
   /* Main Content */
   #chicken, #beef, #sushi {
